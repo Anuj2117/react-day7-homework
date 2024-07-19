@@ -1,4 +1,4 @@
-export default data = [
+const data = [
     {
       URL: "http://www.just-eat.co.uk/restaurants-cn-chinese-cardiff/menu",
       _id: {
@@ -433,3 +433,4 @@ export default data = [
       type_of_food: "Pizza"
     }
   ];
+  export default data;
